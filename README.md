@@ -88,7 +88,9 @@ Each gesture is mapped with logic for gesture recognition robustness and smoothn
 
 ## PALM GESTURE:       
 <img width="954" height="573" alt="image" src="https://github.com/user-attachments/assets/d3359569-805f-4613-a1d3-8ee044c46daf" />
+---
 The palm gesture represents an open hand, with all fingers extended outward. It is typically used as the default state when no specific action is performed. The system interprets this as a neutral position, which is helpful in stabilizing gestures and avoiding unintentional actions. This gesture allows the system to detect transitions into other gestures while ensuring a smooth and accurate response. When no specific command is detected, the palm gesture maintains the status quo, preventing false triggers. It is particularly useful for resetting the system between actions. Users can rest their hands in this position when not interacting with the system. By being an open gesture, it minimizes noise from other finger movements. Its simplicity makes it an ideal "ready" state for gesture recognition. 
+---
 
 ## LEFT CLICK(INDEX FINGER):
 <img width="943" height="695" alt="image" src="https://github.com/user-attachments/assets/39262570-afed-4528-9a03-f962edf39b7a" />
